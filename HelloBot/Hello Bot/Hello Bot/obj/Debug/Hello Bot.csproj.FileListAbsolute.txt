@@ -1,0 +1,53 @@
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\obj\Debug\Hello Bot.csprojResolveAssemblyReference.cache
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\obj\Debug\Hello Bot.csproj.CoreCompileInputs.cache
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Bot Application.dll.config
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Bot Application.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Bot Application.pdb
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Autofac.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Chronic.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Bot.Builder.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Bot.Connector.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Logging.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Newtonsoft.Json.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.Net.Http.Formatting.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.Web.Http.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.Web.Http.WebHost.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Autofac.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Bot.Builder.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Bot.Connector.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Logging.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\Newtonsoft.Json.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.Net.Http.Formatting.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.Web.Http.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\System.Web.Http.WebHost.xml
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\obj\Debug\Bot Application.dll
+D:\Diplomado Bots\HelloBot\Hello Bot\Hello Bot\obj\Debug\Bot Application.pdb
