@@ -1,0 +1,319 @@
+
+<!-- saved from url=(0047)https://ase1.ceti.mx/tecnologo/tgoalumno/kardex -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<meta http-equiv="Content-type" content="text/html; charset=APP_CHARSET">
+		<title>CETI - Centro de Enseñanza Técnica Industrial</title> 
+		<link rel="shortcut icon" href="https://ase1.ceti.mx/tecnologo/public/img/ceti.ico"> 
+        <link rel="stylesheet" type="text/css" href="./CETI - Centro de Enseñanza Técnica Industrial_files/css.php">		<link rel="stylesheet" type="text/css" href="./CETI - Centro de Enseñanza Técnica Industrial_files/css(1).php">        <link rel="stylesheet" type="text/css" href="./CETI - Centro de Enseñanza Técnica Industrial_files/css(2).php">                <script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/prototype.js.descarga"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/effects.js.descarga"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/dragdrop.js.descarga"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/base.js.descarga"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/validations.js.descarga"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/main.php"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/kumbia.js.descarga"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/unittest.js.descarga"></script>
+<script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/scriptaculous.js.descarga"></script><script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/builder.js.descarga"></script><script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/effects.js.descarga"></script><script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/dragdrop.js.descarga"></script><script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/controls.js.descarga"></script><script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/slider.js.descarga"></script><script type="text/javascript" src="./CETI - Centro de Enseñanza Técnica Industrial_files/sound.js.descarga"></script>
+<script type="text/javascript">
+	<!-- <![CDATA[
+$Kumbia.Constant.KUMBIA_PATH = "/tecnologo/";
+$Kumbia.Constant.application = "";
+$Kumbia.Constant.module = "";
+$Kumbia.Constant.controller_name = "tgoalumno";
+$Kumbia.Constant.action_name = "kardex";
+	// ]]> -->
+</script>
+		<style type="text/css">
+			#encabezado{
+				color: #1569C7;
+				font-weight: bold;
+				font-size: 14px;
+			}
+			#toolTipBox {
+				   display: none;
+				   padding: 5;
+				   margin-top: 20px;
+				   font-size: 12px;
+				   border: white solid 1px;
+				   font-family: verdana;
+				   position: absolute;
+				   background-color: #0559b7;
+				   color: #FFFFFF;
+			}
+		</style>
+		<script type="text/javascript">
+				
+			var theObj="";
+			function toolTip(text,me) {
+				   theObj=me;
+				   theObj.onmousemove=updatePos;
+				   document.getElementById('toolTipBox').innerHTML=text;
+				   document.getElementById('toolTipBox').style.display="block";
+				   window.onscroll=updatePos;
+			}
+			function updatePos() {
+				   var ev=arguments[0]?arguments[0]:event;
+				   var x=ev.clientX;
+				   var y=ev.clientY;
+				   diffX=24;
+				   diffY=0;
+				   document.getElementById('toolTipBox').style.top  = y-2+diffY+document.body.scrollTop+ "px";
+				   document.getElementById('toolTipBox').style.left = x-2+diffX+document.body.scrollLeft+"px";
+				   theObj.onmouseout=hideMe;
+			}
+			function hideMe() {
+				   document.getElementById('toolTipBox').style.display="none";
+			}
+		</script>
+        <script language="javascript">
+            function validacionFormulario(){
+                if(document.formularioAsp.exterior.value.length==0){
+                    alert("El campo exterior es obligatorio.");
+                    document.formularioAsp.exterior.focus();
+                    return false;
+                }
+        
+                if(document.formularioAsp.curp.value.length==0){
+                    alert("El campo curp es obligatorio.");
+                    document.formularioAsp.curp.focus();
+                    return false;
+                }
+                
+                if(document.formularioAsp.curp.value.length<18 || document.formularioAsp.curp.value.length>18){
+                    alert("El campo curp tiene que tener 18 caracteres.");
+                    document.formularioAsp.curp.focus();
+                    return false;
+                }                
+            }
+        </script>
+		<!-- ejemplo de el tooltip   onmouseover="toolTip('Mensaje que aparecera en el tooltip',this)"   -->
+	</head>
+	<body>
+	<div align="center">
+<span id="toolTipBox" width="200" style="display: none; top: 126px; left: 974px;">CETI - Centro de Enseñanza Técnica Industrial</span>
+	<center>
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td>
+				<table class="banner" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="192" rowspan="3" align="center">
+							<img src="./CETI - Centro de Enseñanza Técnica Industrial_files/sep_nvo.png" width="106" height="120" onmouseover="toolTip(&#39;SEP - Secretaría de Educación Pública&#39;,this)">
+						</td>
+						<td width="678">
+							
+						</td>
+						<td width="192" rowspan="3" align="center">
+							<img src="./CETI - Centro de Enseñanza Técnica Industrial_files/logo.jpg" width="94" height="120" onmouseover="toolTip(&#39;CETI - Centro de Enseñanza Técnica Industrial&#39;,this)">
+						</td>
+					</tr>
+					<tr>
+						<th width="678" height="30" bgcolor="#FFFFFF" style="color: #000000; font-size: 12px;font-family: Verdana;">
+							<br>
+							CENTRO DE ENSEÑANZA TÉCNICA INDUSTRIAL
+							<p style="font-weight: normal;">ORGANISMO PÚBLICO DESCENTRALIZADO FEDERAL</p>
+						</th>
+					</tr>
+					<tr>
+						<th width="678" height="30" bgcolor="#FFFFFF" style="color: #000000; font-size: 12px;font-family: Verdana;">
+							ADMINISTRACIÓN DEL SISTEMA ESCOLAR
+						</th>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr>
+			<td width="1000" height="600" bgcolor="#FFFFFF" valign="top"><br>
+				<center>
+					<table border="0"><tbody><tr><td width="950">
+
+<div id="encabezado" align="left">
+<img src="./CETI - Centro de Enseñanza Técnica Industrial_files/adorno.gif">
+  Información general
+</div>
+<br>
+<table border="1" style="font-size: 10px;" bordercolor="#003399">
+		<tbody><tr>
+			<!--<td rowspan="3">
+				Sin Foto			</td>-->
+			<td height="20" class="naranja">&nbsp;Registro: </td> 
+			<td class="gris" align="center">&nbsp;17310207&nbsp;</td>
+			<td class="naranja">&nbsp;Nombre: </td>
+			<td class="gris" align="center">Luis Alejandro Castro Ibarra</td>
+			<td class="naranja">&nbsp;Estado del Alumno:</td>
+            <td class="gris" align="center"><strong>OK</strong></td>
+			<td height="20" class="naranja">&nbsp;Semestre:</td>
+			<td height="20" align="center" class="gris">&nbsp;&nbsp;<b>FEB - JUN 2018</b></td>
+		</tr>
+		<tr>
+			<td height="20" class="naranja">&nbsp;Nivel Educativo: </td> 
+			<td class="gris" align="center">&nbsp;INGENIERÍA&nbsp;</td>
+			<td class="naranja">&nbsp;Carrera: </td>
+						<td class="gris" align="center">&nbsp;DESARROLLO DE SOFTWARE&nbsp;</td>
+			<td height="20" class="naranja">&nbsp;Tipo Alumno: </td>
+			<th align="center" class="gris">&nbsp;REGULAR&nbsp;</th>
+			<td height="20" class="naranja">&nbsp;Estatus Pago:</td>
+			<td height="20" align="center" class="gris">
+			PAGO REALIZADO DE FEB - JUN 2018</td>
+		</tr>
+		<tr>
+			<td height="20" class="naranja">&nbsp;Plantel: </td>
+            <td height="20" class="gris">COLOMOS</td>
+			<td class="naranja">&nbsp;Área de Formación: </td>
+								<td class="gris" align="center">Sin asignar</td>
+							<td height="20" class="naranja">&nbsp;Nivel: </td>
+			<td class="gris" align="center">&nbsp;2&nbsp;</td>
+			<td height="20" class="naranja">&nbsp;Plan de Estudios: </td>
+			<td class="gris" align="center">&nbsp;PE12&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="20" class="naranja">&nbsp;Turno: </td>
+			<td class="gris" align="center">&nbsp;VESPERTINO&nbsp;</td>
+			<td height="20" class="naranja">&nbsp;CURP: </td>
+			<td class="gris" align="center">CAXL960731HNESXS06</td>
+			<td height="20" class="naranja">&nbsp;Grupo: </td>
+		<td align="center" class="gris">&nbsp;M2&nbsp;</td>
+				<!--<td align="center" class="gris">&nbsp;Por Asignar&nbsp;</td>-->
+			<td height="20" class="naranja">&nbsp;Tipo Plan: </td>
+						<td align="center" class="gris">&nbsp;Rígido&nbsp;</td>
+		</tr>
+		<tr>
+		<td height="20" class="azul"><b>Credencial HID</b></td>
+		<td height="20" class="gris" align="center">00000</td>	
+				<td height="20" class="naranja"><b>Tipo Ingreso</b></td>
+		<td height="20" class="gris" align="center">EXAMEN</td>
+		
+		<td height="20" class="naranja"><b>Correo Academico<br>Gmail</b></td>
+		<td height="20" class="gris" align="center">a17310207@ceti.mx</td>
+		
+			
+		<td height="20" class="naranja"><b>Correo Institucional<br>Microsoft</b></td>
+		<td height="20" class="gris" align="center">A17310207@live.ceti.mx</td>		
+		</tr>
+		
+					<tr>
+				<td class="gris" colspan="2" rowspan="2"></td>
+				<td height="20" class="naranja"><b>Correo Personal</b></td>
+				<td height="20" class="gris" align="center">alexci1996@hotmail.com</td>
+				
+				<td class="naranja">Contraseña temporal:</td>
+				<td class="gris">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AG17310207</td>
+				<td class="gris" colspan="4" rowspan="2"></td>
+			</tr>
+			<tr>
+				<td class="gris" colspan="2"></td>
+				<td class="naranja" colspan="2">
+					Guía para activar el correo:<br>
+					<a href="http://archivos.ceti.mx/correo.alumnos/activacion.html" target="_blank">http://archivos.ceti.mx</a>
+				</td>
+			</tr>
+			
+		</tbody></table>
+<br>
+<div id="encabezado" align="left">
+<img src="./CETI - Centro de Enseñanza Técnica Industrial_files/adorno.gif">
+  Información del tutor
+</div>
+<br>
+ <table border="1" align="left" width="963" style="font-size: 10px;" bordercolor="#003399">
+	<tbody><tr>
+		<td height="20" class="naranja">&nbsp;Tutor: </td>
+		<td height="20" align="center" class="gris">
+				
+			&nbsp;SALAZAR SATRUSTEGUI JUAN PABLO&nbsp;
+			            </td>
+			<td height="20" class="naranja">&nbsp;División del Tutor: </td>
+            <td height="20" align="center" class="gris">
+          CIENCIAS SOCIALES Y TECNOLOGIAS        </td>
+		<td height="20" class="naranja">&nbsp;Tipo Tutor:</td>
+					<td height="20" align="center" class="gris">GRUPAL</td>
+			</tr>
+<tr><td height="20" class="naranja">&nbsp;Horario Tutorías:</td><td height="20" class="gris" align="center">VERIFICAR CON TUTOR</td><td height="20" class="naranja">&nbsp;Edificio Tutorías:</td><td height="20" class="gris" align="center">VERIFICAR CON TUTOR</td><td height="20" class="naranja">&nbsp;Aula Tutorías:</td><td height="20" class="gris" align="center">VERIFICAR CON TUTOR</td></tr></tbody></table>
+<br>
+<br>
+<br>
+<div id="encabezado" align="left">
+<img src="./CETI - Centro de Enseñanza Técnica Industrial_files/adorno.gif">
+  Información de Seguridad Social
+</div>
+<br>
+<table border="1" align="left" width="963" style="font-size: 10px;" bordercolor="#003399">
+	<tbody><tr><td height="20" colspan="2" class="naranja">Estatus de la Seguridad Social:</td>
+	<td height="20" colspan="2" align="center" class="gris">Actualizada	</td><td height="20" colspan="2" class="naranja">Periodo de Actualización:</td>
+	<td height="20" colspan="2" align="center" class="gris">
+	Ago - Dic 2017	</td>
+	<td height="20" colspan="2" class="naranja">Fecha de Actualización:</td>
+	<td height="20" colspan="2" align="center" class="gris">
+	2017-08-01 14:20:08	</td>
+</tr></tbody></table>
+<br>
+<table border="1" align="left" width="963" style="font-size: 10px;" bordercolor="#003399">
+	
+		<tbody><tr><td height="20" colspan="2" class="naranja">Numero de seguridad social</td>
+		<td height="20" colspan="5" align="center" class="gris">9416-99-3674-0</td>
+		<td height="20" colspan="2" class="naranja">Dependencia</td>
+		<td height="20" colspan="5" align="center" class="gris">IMSS</td>
+		<td height="20" colspan="2" class="naranja">Clínica</td>
+		<td height="20" colspan="5" align="center" class="gris">178</td>	
+		<td height="20" colspan="1" class="naranja">Seguro por parte de:</td>
+		<td height="20" colspan="1" align="center" class="gris">
+		ESCUELA		</td>
+				<td height="20" class="naranja">Tipo Seguro</td>
+		<td height="20" align="center" class="gris">Seguro Facultativo </td>
+		
+				<td height="20" colspan="2" class="naranja">Vigencia</td>
+		<td height="20" colspan="5" align="center" class="gris">Permanente hasta terminar los estudios	</td>
+	
+  </tr></tbody></table>
+  
+<br>
+<br>
+<div id="encabezado">
+	<img src="./CETI - Centro de Enseñanza Técnica Industrial_files/adorno.gif">&nbsp; KARDEX DEL ALUMNO
+</div>
+<div>
+	<center>
+	<br>
+		<table border="1" width="90%" class="bordeazul" cellpadding="1" cellspacing="1" style="font-size: 12px;">
+		<tbody><tr class="naranja">
+			<!--<th>Nivel</th>-->
+			<th>Clave</th>
+			<th>Nombre</th>
+			<th>Tipo</th>
+			<th>Promedio</th>
+			<th>Periodo</th>
+		</tr>
+		<tr><td colspan="5">&nbsp;</td></tr><tr><th class="azul" colspan="5">Nivel 1</th></tr><tr bgcolor="#DDDDDD"><td>CS-16</td><td><b>MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE</b></td><td><center>Ordinario</center></td><th>84</th><td><center>32017</center></td></tr><tr bgcolor="#FFFFFF"><td>FMA00</td><td><b>PRECALCULO</b></td><td><center>Ordinario</center></td><th>73</th><td><center>32017</center></td></tr><tr bgcolor="#EEEEEE"><td>FMB00</td><td><b>MATEMATICAS DISCRETAS</b></td><td><center>Nivelacion</center></td><th>70</th><td><center>32017</center></td></tr><tr bgcolor="#DDDDDD"><td>FMC01</td><td><b>ESTATICA</b></td><td><center>Extraordinario</center></td><th>74</th><td><center>32017</center></td></tr><tr bgcolor="#FFFFFF"><td>ICA01</td><td><b>INTRODUCCION A LA ALGORITMIA</b></td><td><center>Examen Global</center></td><th>97</th><td><center>32017</center></td></tr><tr bgcolor="#EEEEEE"><td>ICB00</td><td><b>INTRODUCCION AL DESARROLLO DE SOFTWARE</b></td><td><center>Examen Global</center></td><th>70</th><td><center>32017</center></td></tr><tr bgcolor="#DDDDDD"><td>LEA01</td><td><b>INGLÉS I</b></td><td><center>Convalidación</center></td><th>92</th><td><center>32017</center></td></tr><tr bgcolor="#FFFFFF"><td>SIA00</td><td><b>CULTURA COMPARADA</b></td><td><center>Ordinario</center></td><th>87</th><td><center>32017</center></td></tr><tr><td colspan="5">&nbsp;</td></tr><tr><th class="azul" colspan="5">Nivel 2</th></tr><tr bgcolor="#EEEEEE"><td>ADA00</td><td><b>ECONOMIA</b></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr bgcolor="#DDDDDD"><td>CB-10</td><td><b>CALCULO DIFERENCIAL E INTEGRAL</b></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr bgcolor="#FFFFFF"><td>CB-14</td><td><b>ALGEBRA LINEAL</b></td><td><center>Acreditación</center></td><th>74</th><td><center>42017</center></td></tr><tr bgcolor="#EEEEEE"><td>FMD02</td><td><b>DINAMICA</b></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr bgcolor="#DDDDDD"><td>ICC02</td><td><b>ALGORITMOS Y ESTRUCTURA DE DATOS</b></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr bgcolor="#FFFFFF"><td>ICD01</td><td><b>PROGRAMACION ESTRUCTURADA Y ORIENTADA A OBJETOS</b></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr bgcolor="#EEEEEE"><td>LEB02</td><td><b>INGLÉS II</b></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>	</tr></tbody></table>
+	</center>
+	<br><br>
+	<center class="naranja">
+	<h3>Los datos aqui mostrados solamente son con motivos de informacion, no tienen ninguna validez oficial.</h3>	
+		</center>
+</div>
+</td></tr></tbody></table>
+				</center>
+			</td>
+		</tr>
+		<tr>
+			<td width="1000" height="40"> <!--bgcolor="#F27822">-->
+				<div align="center" style="family-font: Verdana; font-size: 10px; color: #000;">
+					<b>
+						Jueves, 08 de Marzo de 2018 (00:58)						<br>
+						©2008 CETI - CENTRO DE ENSEÑANZA TÉCNICA INDUSTRIAL
+					</b>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+	<center>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="./CETI - Centro de Enseñanza Técnica Industrial_files/ga.js.descarga" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1891409-9");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+	
+</center></center></div></body></html>
